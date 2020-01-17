@@ -2,9 +2,9 @@
  
 ![ESP32-DOIT-DEVKIT-V1-36](images/ESPDuino32.png)
 
-Name     |ESPDUINO|pin|type|fonctions|||
----------|--------|---|----|-------------------------------------------------------------------------
-EN       |  RST   | 3 |I   |Module-enable signal. Active high.
+Name     |ESPDUINO|pin|type|fonctions |fonction|fonction|fonctions
+---------|--------|---|----|-------|----------|-------|----------------------------------------------
+EN       |  RST   | 3 |I   |Module-enable signal.|Active high. | |
 IO0      |        |25 |I/O |GPIO0  |          |       |                   ADC2_CH1  TOUCH1  RTC_GPIO11
 TXD0     |  TXD   |35 |I/O |GPIO1  |U0TXD     |       |                                    
 IO2      |  A0    |24 |I/O |GPIO2  |SD_DATA0  |HSPIWP | HS2_DATA0         ADC2_CH2  TOUCH2  RTC_GPIO12
