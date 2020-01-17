@@ -2,9 +2,9 @@
 
 ![ESP32-DOIT-DEVKIT-V1-36](images/esp32-d1-mini-kit-Pinout.jpg)
 
-Name     |D1     |pin|type|fonctions|||
----------|------ |---|----|-------------------------------------------------------------------------
-EN       |RST    | 3 |I   |Module-enable signal. Active high.
+Name     |D1     |pin|type|fonctions | a     |  b    | c
+---------|------ |---|----|-------|----------|-------|----------------------------------------------
+EN       |RST    | 3 |I   |Module-enable signal.|Active high. | |
 IO0      |IO0    |25 |I/O |GPIO0  |          |       |                   ADC2_CH1  TOUCH1  RTC_GPIO11
 TXD0     |TXD    |35 |I/O |GPIO1  |U0TXD     |       |                                    
 IO2      |IO2    |24 |I/O |GPIO2  |SD_DATA0  |HSPIWP | HS2_DATA0         ADC2_CH2  TOUCH2  RTC_GPIO12
