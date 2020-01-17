@@ -1,8 +1,8 @@
 # ESPDuino32
-
+ 
 ![ESP32-DOIT-DEVKIT-V1-36](images/ESPDuino32.png)
 
-Name     |ESPDUINO|pin|type|fonctions
+Name     |ESPDUINO|pin|type|fonctions|||
 ---------|--------|---|----|-------------------------------------------------------------------------
 EN       |  RST   | 3 |I   |Module-enable signal. Active high.
 IO0      |        |25 |I/O |GPIO0  |          |       |                   ADC2_CH1  TOUCH1  RTC_GPIO11
